@@ -1,0 +1,8 @@
+C:\Users\202509007D\OneDrive\C#\K12\K12\bin\Debug\K12.exe.config
+C:\Users\202509007D\OneDrive\C#\K12\K12\bin\Debug\K12.exe
+C:\Users\202509007D\OneDrive\C#\K12\K12\bin\Debug\K12.pdb
+C:\Users\202509007D\OneDrive\C#\K12\K12\obj\Debug\K12.csproj.AssemblyReference.cache
+C:\Users\202509007D\OneDrive\C#\K12\K12\obj\Debug\K12.csproj.CoreCompileInputs.cache
+C:\Users\202509007D\OneDrive\C#\K12\K12\obj\Debug\K12.exe
+C:\Users\202509007D\OneDrive\C#\K12\K12\obj\Debug\K12.pdb
+C:\Users\202509007D\OneDrive\C#\K12\K12\obj\Debug\K12.exe.config

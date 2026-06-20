@@ -1,0 +1,8 @@
+C:\Users\202509007D\Desktop\SE#Ccad\SE#Ccad\CS\bin\Debug\CS.exe.config
+C:\Users\202509007D\Desktop\SE#Ccad\SE#Ccad\CS\bin\Debug\CS.exe
+C:\Users\202509007D\Desktop\SE#Ccad\SE#Ccad\CS\bin\Debug\CS.pdb
+C:\Users\202509007D\Desktop\SE#Ccad\SE#Ccad\CS\obj\Debug\CS.csproj.AssemblyReference.cache
+C:\Users\202509007D\Desktop\SE#Ccad\SE#Ccad\CS\obj\Debug\CS.csproj.CoreCompileInputs.cache
+C:\Users\202509007D\Desktop\SE#Ccad\SE#Ccad\CS\obj\Debug\CS.exe
+C:\Users\202509007D\Desktop\SE#Ccad\SE#Ccad\CS\obj\Debug\CS.pdb
+C:\Users\202509007D\Desktop\SE#Ccad\SE#Ccad\CS\obj\Debug\CS.exe.config

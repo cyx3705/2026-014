@@ -1,0 +1,15 @@
+C:\Users\202509007D\OneDrive\C#\K6\K9-1\bin\Debug\K9-1.exe.config
+C:\Users\202509007D\OneDrive\C#\K6\K9-1\bin\Debug\K9-1.exe
+C:\Users\202509007D\OneDrive\C#\K6\K9-1\bin\Debug\K9-1.pdb
+C:\Users\202509007D\OneDrive\C#\K6\K9-1\obj\Debug\K9-1.csproj.AssemblyReference.cache
+C:\Users\202509007D\OneDrive\C#\K6\K9-1\obj\Debug\K9-1.csproj.CoreCompileInputs.cache
+C:\Users\202509007D\OneDrive\C#\K6\K9-1\obj\Debug\K9-1.exe
+C:\Users\202509007D\OneDrive\C#\K6\K9-1\obj\Debug\K9-1.pdb
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K9-1\bin\Debug\K9-1.exe.config
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K9-1\bin\Debug\K9-1.exe
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K9-1\bin\Debug\K9-1.pdb
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K9-1\obj\Debug\K9-1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K9-1\obj\Debug\K9-1.exe.config
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K9-1\obj\Debug\K9-1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K9-1\obj\Debug\K9-1.exe
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K9-1\obj\Debug\K9-1.pdb

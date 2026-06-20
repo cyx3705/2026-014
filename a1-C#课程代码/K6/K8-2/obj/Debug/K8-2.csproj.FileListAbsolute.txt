@@ -1,0 +1,16 @@
+C:\Users\202509007D\OneDrive\C#\K6\K8-2\bin\Debug\K8-2.exe.config
+C:\Users\202509007D\OneDrive\C#\K6\K8-2\bin\Debug\K8-2.exe
+C:\Users\202509007D\OneDrive\C#\K6\K8-2\bin\Debug\K8-2.pdb
+C:\Users\202509007D\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.csproj.AssemblyReference.cache
+C:\Users\202509007D\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.csproj.CoreCompileInputs.cache
+C:\Users\202509007D\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.exe
+C:\Users\202509007D\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.pdb
+C:\Users\202509007D\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.exe.config
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K8-2\bin\Debug\K8-2.exe.config
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K8-2\bin\Debug\K8-2.exe
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K8-2\bin\Debug\K8-2.pdb
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.exe.config
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.exe
+C:\Users\Administrator\Desktop\OneDrive\C#\K6\K8-2\obj\Debug\K8-2.pdb

@@ -1,0 +1,8 @@
+C:\Users\202509007D\OneDrive\C#\K11\K11\bin\Debug\K11.exe.config
+C:\Users\202509007D\OneDrive\C#\K11\K11\bin\Debug\K11.exe
+C:\Users\202509007D\OneDrive\C#\K11\K11\bin\Debug\K11.pdb
+C:\Users\202509007D\OneDrive\C#\K11\K11\obj\Debug\K11.csproj.AssemblyReference.cache
+C:\Users\202509007D\OneDrive\C#\K11\K11\obj\Debug\K11.csproj.CoreCompileInputs.cache
+C:\Users\202509007D\OneDrive\C#\K11\K11\obj\Debug\K11.exe
+C:\Users\202509007D\OneDrive\C#\K11\K11\obj\Debug\K11.pdb
+C:\Users\202509007D\OneDrive\C#\K11\K11\obj\Debug\K11.exe.config
