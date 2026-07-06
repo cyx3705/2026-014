@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Desktop-core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0906C20-9B77-4AE3-8E97-56CFB56F598B}|Desktop-core\\Desktop-core.csproj|c:\\users\\administrator\\desktop\\desktop-core\\desktop-core\\desktop-core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0906C20-9B77-4AE3-8E97-56CFB56F598B}|Desktop-core\\Desktop-core.csproj|solutionrelative:desktop-core\\desktop-core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0906C20-9B77-4AE3-8E97-56CFB56F598B}|Desktop-core\\Desktop-core.csproj|c:\\users\\administrator\\desktop\\desktop-core\\desktop-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0906C20-9B77-4AE3-8E97-56CFB56F598B}|Desktop-core\\Desktop-core.csproj|solutionrelative:desktop-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0906C20-9B77-4AE3-8E97-56CFB56F598B}|Desktop-core\\Desktop-core.csproj|c:\\users\\administrator\\desktop\\desktop-core\\desktop-core\\desktop-core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E0906C20-9B77-4AE3-8E97-56CFB56F598B}|Desktop-core\\Desktop-core.csproj|solutionrelative:desktop-core\\desktop-core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0906C20-9B77-4AE3-8E97-56CFB56F598B}|Desktop-core\\Desktop-core.csproj|c:\\users\\administrator\\desktop\\desktop-core\\desktop-core\\sever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0906C20-9B77-4AE3-8E97-56CFB56F598B}|Desktop-core\\Desktop-core.csproj|solutionrelative:desktop-core\\sever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Desktop-core.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Desktop-core\\Desktop-core\\Desktop-core.csproj",
+              "RelativeDocumentMoniker": "Desktop-core\\Desktop-core.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Desktop-core\\Desktop-core\\Desktop-core.csproj",
+              "RelativeToolTip": "Desktop-core\\Desktop-core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T07:51:22.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sever.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Desktop-core\\Desktop-core\\Sever.cs",
+              "RelativeDocumentMoniker": "Desktop-core\\Sever.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Desktop-core\\Desktop-core\\Sever.cs",
+              "RelativeToolTip": "Desktop-core\\Sever.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T17:57:28.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Desktop-core",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Desktop-core\\Desktop-core\\Desktop-core.csproj",
+              "RelativeDocumentMoniker": "Desktop-core\\Desktop-core.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Desktop-core\\Desktop-core\\Desktop-core.csproj",
+              "RelativeToolTip": "Desktop-core\\Desktop-core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T17:56:32.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Desktop-core\\Desktop-core\\Program.cs",
+              "RelativeDocumentMoniker": "Desktop-core\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Desktop-core\\Desktop-core\\Program.cs",
+              "RelativeToolTip": "Desktop-core\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T17:56:30.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

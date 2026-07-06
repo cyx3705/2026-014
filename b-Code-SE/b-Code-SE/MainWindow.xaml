@@ -1,0 +1,62 @@
+﻿<Window x:Class="b_Code_SE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Solid Edge 操作监视器" Height="640" Width="960"
+        MinHeight="480" MinWidth="720"
+        Closing="MainWindow_Closing">
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Solid Edge 命令 / 参数实时监视"
+                   FontSize="18" FontWeight="SemiBold" Margin="0,0,0,8"/>
+
+        <StackPanel Grid.Row="1" Margin="0,0,0,10">
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="BtnConnect" Content="连接已运行的 SE" Width="130" Height="32" Margin="0,0,8,0"
+                        Click="BtnConnect_Click"/>
+                <Button x:Name="BtnStart" Content="启动并连接 SE" Width="120" Height="32" Margin="0,0,8,0"
+                        Click="BtnStart_Click"/>
+                <Button x:Name="BtnDisconnect" Content="断开连接" Width="90" Height="32" Margin="0,0,8,0"
+                        IsEnabled="False" Click="BtnDisconnect_Click"/>
+                <Button x:Name="BtnEmbed" Content="嵌入到 SE" Width="90" Height="32" Margin="0,0,8,0"
+                        IsEnabled="False" Click="BtnEmbed_Click"/>
+                <Button x:Name="BtnDetach" Content="取消嵌入" Width="90" Height="32" Margin="0,0,8,0"
+                        IsEnabled="False" Click="BtnDetach_Click"/>
+                <Button x:Name="BtnClear" Content="清空日志" Width="80" Height="32" Margin="0,0,8,0"
+                        Click="BtnClear_Click"/>
+                <CheckBox x:Name="ChkAutoScroll" Content="自动滚动" IsChecked="True" VerticalAlignment="Center"/>
+            </StackPanel>
+            <TextBlock Margin="0,6,0,0" Foreground="#666666" FontSize="11"
+                       Text="参数说明：命令事件不含入参，系统在命令完成后读取零件新增特征属性（如 Depth=拉伸距离）"/>
+        </StackPanel>
+
+        <Border Grid.Row="2" BorderBrush="#CCCCCC" BorderThickness="1" CornerRadius="4">
+            <ListView x:Name="LogList" FontFamily="Consolas" FontSize="12">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="时间" Width="90" DisplayMemberBinding="{Binding TimeText}"/>
+                        <GridViewColumn Header="类别" Width="110" DisplayMemberBinding="{Binding Category}"/>
+                        <GridViewColumn Header="内容" Width="700" DisplayMemberBinding="{Binding Message}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Border>
+
+        <DockPanel Grid.Row="3" Margin="0,8,0,0">
+            <Ellipse x:Name="StatusDot" Width="10" Height="10" Fill="#CC4444"
+                     VerticalAlignment="Center" Margin="0,0,8,0"/>
+            <TextBlock x:Name="StatusText" Text="未连接" VerticalAlignment="Center"/>
+            <TextBlock DockPanel.Dock="Right" Foreground="#666666" FontSize="11"
+                       Text="嵌入模式：窗口停靠在 SE 右侧"
+                       VerticalAlignment="Center"/>
+        </DockPanel>
+    </Grid>
+</Window>
