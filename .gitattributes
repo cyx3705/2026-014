@@ -1,231 +1,315 @@
-# HistoryJanus baseline begin
-*.1 filter=lfs diff=lfs merge=lfs -text
-*.48719 text eol=lf
-*.7z filter=lfs diff=lfs merge=lfs -text
-*.@msg filter=lfs diff=lfs merge=lfs -text
-*.a filter=lfs diff=lfs merge=lfs -text
-*.a51 text eol=lf
-*.administrator text eol=lf
-*.ap15 text eol=lf
-*.asm filter=lfs diff=lfs merge=lfs -text
-*.asmdef text eol=lf
-*.asset text eol=lf
-*.autosave filter=lfs diff=lfs merge=lfs -text
-*.avi filter=lfs diff=lfs merge=lfs -text
-*.baml filter=lfs diff=lfs merge=lfs -text
-*.bin filter=lfs diff=lfs merge=lfs -text
-*.bip filter=lfs diff=lfs merge=lfs -text
-*.blend filter=lfs diff=lfs merge=lfs -text
-*.bmp filter=lfs diff=lfs merge=lfs -text
-*.bomdoc text eol=lf
-*.c text eol=lf
-*.caj filter=lfs diff=lfs merge=lfs -text
-*.cat filter=lfs diff=lfs merge=lfs -text
-*.cfg filter=lfs diff=lfs merge=lfs -text
-*.cfs filter=lfs diff=lfs merge=lfs -text
-*.ckt text eol=lf
-*.cmd text eol=lf
-*.cnk filter=lfs diff=lfs merge=lfs -text
-*.config text eol=lf
-*.cpp text eol=lf
-*.cs text eol=lf
-*.csproj text eol=lf
-*.csv text eol=lf
-*.dat filter=lfs diff=lfs merge=lfs -text
-*.db filter=lfs diff=lfs merge=lfs -text
-*.db-shm filter=lfs diff=lfs merge=lfs -text
-*.db-wal filter=lfs diff=lfs merge=lfs -text
-*.del filter=lfs diff=lfs merge=lfs -text
-*.dft filter=lfs diff=lfs merge=lfs -text
-*.dll filter=lfs diff=lfs merge=lfs -text
-*.doc filter=lfs diff=lfs merge=lfs -text
-*.docm filter=lfs diff=lfs merge=lfs -text
-*.docx filter=lfs diff=lfs merge=lfs -text
-*.dti text eol=lf
-*.dwg filter=lfs diff=lfs merge=lfs -text
-*.dwlt text eol=lf
-*.dxf text eol=lf
-*.dylib filter=lfs diff=lfs merge=lfs -text
-*.editorconfig text eol=lf
-*.err text eol=lf
-*.exe filter=lfs diff=lfs merge=lfs -text
-*.fdt filter=lfs diff=lfs merge=lfs -text
-*.fdx filter=lfs diff=lfs merge=lfs -text
-*.fig filter=lfs diff=lfs merge=lfs -text
-*.filters text eol=lf
-*.flv filter=lfs diff=lfs merge=lfs -text
-*.fnm text eol=lf
-*.frq text eol=lf
-*.gen filter=lfs diff=lfs merge=lfs -text
-*.guid text eol=lf
-*.gx3 filter=lfs diff=lfs merge=lfs -text
-*.gz filter=lfs diff=lfs merge=lfs -text
-*.h text eol=lf
-*.hex filter=lfs diff=lfs merge=lfs -text
-*.htm text eol=lf
-*.html text eol=lf
-*.http text eol=lf
-*.ico filter=lfs diff=lfs merge=lfs -text
-*.id filter=lfs diff=lfs merge=lfs -text
-*.idx filter=lfs diff=lfs merge=lfs -text
-*.iex text eol=lf
-*.igs filter=lfs diff=lfs merge=lfs -text
-*.index filter=lfs diff=lfs merge=lfs -text
-*.inf text eol=lf
-*.ini text eol=lf
-*.ino text eol=lf
-*.inp0 text eol=lf
-*.inpx text eol=lf
-*.intlib filter=lfs diff=lfs merge=lfs -text
-*.ipch filter=lfs diff=lfs merge=lfs -text
-*.jar filter=lfs diff=lfs merge=lfs -text
-*.jfif filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.JPG filter=lfs diff=lfs merge=lfs -text
-*.js text eol=lf
-*.json text eol=lf
-*.jt filter=lfs diff=lfs merge=lfs -text
-*.ksp filter=lfs diff=lfs merge=lfs -text
-*.lastbuildstate text eol=lf
-*.layx text eol=lf
-*.lib filter=lfs diff=lfs merge=lfs -text
-*.libpkg text eol=lf
-*.lnk filter=lfs diff=lfs merge=lfs -text
-*.lnp text eol=lf
-*.lst text eol=lf
-*.m text eol=lf
-*.m51 text eol=lf
-*.manifest text eol=lf
-*.mcam filter=lfs diff=lfs merge=lfs -text
-*.mcam-control filter=lfs diff=lfs merge=lfs -text
-*.mcam-gmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-lmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-mmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-rmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-wmd filter=lfs diff=lfs merge=lfs -text
-*.md text eol=lf
-*.mdl text eol=lf
-*.meta text eol=lf
-*.mkv filter=lfs diff=lfs merge=lfs -text
-*.mltbx filter=lfs diff=lfs merge=lfs -text
-*.mod text eol=lf
-*.mov filter=lfs diff=lfs merge=lfs -text
-*.mp3 filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.nc text eol=lf
-*.nfproj text eol=lf
-*.nupkg filter=lfs diff=lfs merge=lfs -text
-*.original filter=lfs diff=lfs merge=lfs -text
-*.p7s filter=lfs diff=lfs merge=lfs -text
-*.par filter=lfs diff=lfs merge=lfs -text
-*.pcbdoc filter=lfs diff=lfs merge=lfs -text
-*.pcblib filter=lfs diff=lfs merge=lfs -text
-*.pdbx text eol=lf
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.pe filter=lfs diff=lfs merge=lfs -text
-*.pl filter=lfs diff=lfs merge=lfs -text
-*.plf filter=lfs diff=lfs merge=lfs -text
-*.plg text eol=lf
-*.pma15_0 filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.pptx filter=lfs diff=lfs merge=lfs -text
-*.prefab text eol=lf
-*.pri filter=lfs diff=lfs merge=lfs -text
-*.projitems text eol=lf
-*.props text eol=lf
-*.prp filter=lfs diff=lfs merge=lfs -text
-*.prproj filter=lfs diff=lfs merge=lfs -text
-*.prt filter=lfs diff=lfs merge=lfs -text
-*.prtpl filter=lfs diff=lfs merge=lfs -text
-*.prx filter=lfs diff=lfs merge=lfs -text
-*.ps1 text eol=lf
-*.psb filter=lfs diff=lfs merge=lfs -text
-*.psm filter=lfs diff=lfs merge=lfs -text
-*.pst text eol=lf
-*.pubxml text eol=lf
-*.pwx filter=lfs diff=lfs merge=lfs -text
-*.py text eol=lf
-*.pyc filter=lfs diff=lfs merge=lfs -text
-*.pyproj text eol=lf
-*.qml text eol=lf
-*.r2021a filter=lfs diff=lfs merge=lfs -text
-*.razor text eol=lf
-*.rdf filter=lfs diff=lfs merge=lfs -text
-*.recipe text eol=lf
-*.resources filter=lfs diff=lfs merge=lfs -text
-*.resx text eol=lf
-*.rld filter=lfs diff=lfs merge=lfs -text
-*.rlf text eol=lf
-*.rsf text eol=lf
-*.rslib filter=lfs diff=lfs merge=lfs -text
-*.rsproj text eol=lf
-*.rsstnx text eol=lf
-*.rsuser text eol=lf
-*.rul text eol=lf
-*.schdoc filter=lfs diff=lfs merge=lfs -text
-*.schlib filter=lfs diff=lfs merge=lfs -text
-*.scr text eol=lf
-*.set text eol=lf
-*.settings text eol=lf
-*.sev text eol=lf
-*.shproj text eol=lf
-*.sldasm filter=lfs diff=lfs merge=lfs -text
-*.slddrw filter=lfs diff=lfs merge=lfs -text
-*.sldprt filter=lfs diff=lfs merge=lfs -text
-*.sln text eol=lf
-*.slx filter=lfs diff=lfs merge=lfs -text
-*.so filter=lfs diff=lfs merge=lfs -text
-*.srt filter=lfs diff=lfs merge=lfs -text
-*.step filter=lfs diff=lfs merge=lfs -text
-*.stp text eol=lf
-*.sys filter=lfs diff=lfs merge=lfs -text
-*.targets text eol=lf
-*.tii filter=lfs diff=lfs merge=lfs -text
-*.tis filter=lfs diff=lfs merge=lfs -text
-*.tooldb filter=lfs diff=lfs merge=lfs -text
-*.tvd filter=lfs diff=lfs merge=lfs -text
-*.tvf filter=lfs diff=lfs merge=lfs -text
-*.tvx filter=lfs diff=lfs merge=lfs -text
-*.txt text eol=lf
-*.unity text eol=lf
-*.uvopt text eol=lf
-*.uvproj text eol=lf
-*.v2 filter=lfs diff=lfs merge=lfs -text
-*.vb text eol=lf
-*.vbproj text eol=lf
-*.vcxproj text eol=lf
-*.vxd filter=lfs diff=lfs merge=lfs -text
-*.wmv filter=lfs diff=lfs merge=lfs -text
-*.xaml text eol=lf
-*.xls filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.xmind filter=lfs diff=lfs merge=lfs -text
-*.xml text eol=lf
-*.xmp text eol=lf
-*.x_t filter=lfs diff=lfs merge=lfs -text
-*.yml text eol=lf
-*.zheng text eol=lf
-*.zw1 filter=lfs diff=lfs merge=lfs -text
-*._ text eol=lf
-# HistoryJanus baseline end
+# 极保守 LFS 策略：不按扩展名批量套 LFS。
+# 旧的按扩展名通配（*.asm / *.baml 这类文本也在内）是 11GB LFS 占用
+# 与推送被 GitHub pre-receive 拒收的根因。
+# 下面只逐条列出**已经是 LFS 指针**的现存文件，保证这些指针不失效；
+# 新文件一律不自动进 LFS——只有单个文件超过 GitHub 100MB 硬限时，
+# 才由提交链路逐个征求人工同意后按精确路径追加。
+* text=auto
 
-*.JPG filter=lfs diff=lfs merge=lfs -text
-*.PNG filter=lfs diff=lfs merge=lfs -text
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.stp filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.mkv filter=lfs diff=lfs merge=lfs -text
-*.wmv filter=lfs diff=lfs merge=lfs -text
-*.flv filter=lfs diff=lfs merge=lfs -text
-\# filter=lfs diff=lfs merge=lfs -text
-常见视频格式 filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.mov filter=lfs diff=lfs merge=lfs -text
-*.avi filter=lfs diff=lfs merge=lfs -text
-Pro filter=lfs diff=lfs merge=lfs -text
-工程文件 filter=lfs diff=lfs merge=lfs -text
-*.prproj filter=lfs diff=lfs merge=lfs -text
-*.prp filter=lfs diff=lfs merge=lfs -text
-*.prtpl filter=lfs diff=lfs merge=lfs -text
-*.pl filter=lfs diff=lfs merge=lfs -text
-Premiere filter=lfs diff=lfs merge=lfs -text
+"a1-C#课程代码/K12/显示类型转换.png" filter=lfs diff=lfs merge=lfs -text
+"a1-C#课程代码/K12/隐式类型转换.png" filter=lfs diff=lfs merge=lfs -text
+"a1-C#课程代码/K6/x64/Debug/K8-1.exe" filter=lfs diff=lfs merge=lfs -text
+b-Code-SE/b-Code-SE/lib/Interop.SolidEdgeConstants.dll filter=lfs diff=lfs merge=lfs -text
+b-Code-SE/b-Code-SE/lib/Interop.SolidEdgeFramework.dll filter=lfs diff=lfs merge=lfs -text
+b-Code-SE/b-Code-SE/lib/Interop.SolidEdgePart.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Desktop-core.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Desktop-core.exe filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Configuration.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Configuration.Binder.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Configuration.CommandLine.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Configuration.EnvironmentVariables.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Configuration.FileExtensions.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Configuration.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Configuration.UserSecrets.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Configuration.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.DependencyInjection.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.DependencyInjection.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Diagnostics.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Diagnostics.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.FileProviders.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.FileProviders.Physical.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.FileSystemGlobbing.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Hosting.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Hosting.WindowsServices.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Hosting.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Logging.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Logging.Configuration.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Logging.Console.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Logging.Debug.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Logging.EventLog.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Logging.EventSource.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Logging.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Options.ConfigurationExtensions.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Options.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/Microsoft.Extensions.Primitives.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/System.Diagnostics.DiagnosticSource.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/System.Diagnostics.EventLog.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/System.IO.Pipelines.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/System.ServiceProcess.ServiceController.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/System.Text.Encodings.Web.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/System.Text.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/Desktop-core/push/runtimes/win/lib/net8.0/System.ServiceProcess.ServiceController.dll filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/Icon.png" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/Microsoft.Bcl.AsyncInterfaces.8.0.0.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/lib/net462/Microsoft.Bcl.AsyncInterfaces.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/Microsoft.Bcl.AsyncInterfaces.8.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/RestSharp.112.1.0/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/RestSharp.112.1.0/RestSharp.112.1.0.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/RestSharp.112.1.0/lib/net471/RestSharp.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/RestSharp.112.1.0/lib/net48/RestSharp.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/RestSharp.112.1.0/lib/net6.0/RestSharp.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/RestSharp.112.1.0/lib/net7.0/RestSharp.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/RestSharp.112.1.0/lib/net8.0/RestSharp.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/RestSharp.112.1.0/lib/netstandard2.0/RestSharp.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/RestSharp.112.1.0/restsharp.png" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Buffers.4.5.1/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Buffers.4.5.1/System.Buffers.4.5.1.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Buffers.4.5.1/lib/net461/System.Buffers.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Buffers.4.5.1/lib/netstandard1.1/System.Buffers.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Buffers.4.5.1/lib/netstandard2.0/System.Buffers.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Buffers.4.5.1/ref/net45/System.Buffers.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Buffers.4.5.1/ref/netstandard1.1/System.Buffers.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Buffers.4.5.1/ref/netstandard2.0/System.Buffers.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Memory.4.5.5/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Memory.4.5.5/System.Memory.4.5.5.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Memory.4.5.5/lib/net461/System.Memory.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Memory.4.5.5/lib/netstandard1.1/System.Memory.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Memory.4.5.5/lib/netstandard2.0/System.Memory.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/System.Numerics.Vectors.4.5.0.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/lib/net46/System.Numerics.Vectors.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/lib/netstandard1.0/System.Numerics.Vectors.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/lib/netstandard2.0/System.Numerics.Vectors.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/ref/net45/System.Numerics.Vectors.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/ref/net46/System.Numerics.Vectors.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/ref/netstandard1.0/System.Numerics.Vectors.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Numerics.Vectors.4.5.0/ref/netstandard2.0/System.Numerics.Vectors.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Runtime.CompilerServices.Unsafe.6.0.0/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Runtime.CompilerServices.Unsafe.6.0.0/Icon.png" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Runtime.CompilerServices.Unsafe.6.0.0/System.Runtime.CompilerServices.Unsafe.6.0.0.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/net461/System.Runtime.CompilerServices.Unsafe.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/Icon.png" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/System.Text.Encodings.Web.8.0.0.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/lib/net462/System.Text.Encodings.Web.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/lib/net6.0/System.Text.Encodings.Web.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/lib/net7.0/System.Text.Encodings.Web.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/lib/net8.0/System.Text.Encodings.Web.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/lib/netstandard2.0/System.Text.Encodings.Web.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Encodings.Web.8.0.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/Icon.png" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/System.Text.Json.8.0.4.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/System.Text.Json.SourceGeneration.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/cs/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/de/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/es/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/fr/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/it/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/ja/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/ko/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/pl/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/ru/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/tr/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn3.11/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/System.Text.Json.SourceGeneration.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/cs/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/de/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/es/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/fr/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/it/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/ja/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/ko/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/pl/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/ru/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/tr/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.0/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/System.Text.Json.SourceGeneration.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/cs/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/de/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/es/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/fr/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/it/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/ja/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/ko/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/pl/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/ru/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/tr/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/analyzers/dotnet/roslyn4.4/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/lib/net462/System.Text.Json.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/lib/net6.0/System.Text.Json.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/lib/net7.0/System.Text.Json.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/lib/net8.0/System.Text.Json.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Text.Json.8.0.4/lib/netstandard2.0/System.Text.Json.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Threading.Tasks.Extensions.4.5.4/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Threading.Tasks.Extensions.4.5.4/System.Threading.Tasks.Extensions.4.5.4.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Threading.Tasks.Extensions.4.5.4/lib/net461/System.Threading.Tasks.Extensions.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Threading.Tasks.Extensions.4.5.4/lib/netstandard1.0/System.Threading.Tasks.Extensions.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Threading.Tasks.Extensions.4.5.4/lib/netstandard2.0/System.Threading.Tasks.Extensions.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.Threading.Tasks.Extensions.4.5.4/lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.ValueTuple.4.5.0/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.ValueTuple.4.5.0/System.ValueTuple.4.5.0.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.ValueTuple.4.5.0/lib/net461/System.ValueTuple.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.ValueTuple.4.5.0/lib/net47/System.ValueTuple.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.ValueTuple.4.5.0/lib/netstandard1.0/System.ValueTuple.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.ValueTuple.4.5.0/lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.ValueTuple.4.5.0/ref/net461/System.ValueTuple.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.ValueTuple.4.5.0/ref/net47/System.ValueTuple.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/SE#Ccad/SE#Ccad/packages/System.ValueTuple.4.5.0/ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll" filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/Microsoft.Win32.Registry.4.7.0.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/lib/net46/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/lib/net461/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/lib/netstandard1.3/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/lib/netstandard2.0/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/ref/net46/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/ref/net461/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/ref/net472/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/ref/netstandard1.3/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/ref/netstandard2.0/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/runtimes/win/lib/net46/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/runtimes/win/lib/net461/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/Microsoft.Win32.Registry.4.7.0/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.2.2.1/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.2.2.1/NAudio.2.2.1.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.2.2.1/lib/net472/NAudio.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.2.2.1/lib/net6.0-windows7.0/NAudio.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.2.2.1/lib/net6.0/NAudio.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.2.2.1/lib/netcoreapp3.1/NAudio.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.2.2.1/naudio-icon.png filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Asio.2.2.1/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Asio.2.2.1/NAudio.Asio.2.2.1.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Asio.2.2.1/lib/netstandard2.0/NAudio.Asio.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Asio.2.2.1/naudio-icon.png filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Core.2.2.1/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Core.2.2.1/NAudio.Core.2.2.1.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Core.2.2.1/lib/netstandard2.0/NAudio.Core.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Core.2.2.1/naudio-icon.png filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Midi.2.2.1/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Midi.2.2.1/NAudio.Midi.2.2.1.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Midi.2.2.1/lib/netstandard2.0/NAudio.Midi.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Midi.2.2.1/naudio-icon.png filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Wasapi.2.2.1/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Wasapi.2.2.1/NAudio.Wasapi.2.2.1.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Wasapi.2.2.1/lib/netstandard2.0/NAudio.Wasapi.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Wasapi.2.2.1/lib/uap10.0.18362/NAudio.Wasapi.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Wasapi.2.2.1/lib/uap10.0.18362/NAudio.Wasapi.pri filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.Wasapi.2.2.1/naudio-icon.png filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.WinForms.2.2.1/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.WinForms.2.2.1/NAudio.WinForms.2.2.1.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.WinForms.2.2.1/lib/net472/NAudio.WinForms.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.WinForms.2.2.1/lib/netcoreapp3.1/NAudio.WinForms.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.WinForms.2.2.1/naudio-icon.png filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.WinMM.2.2.1/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.WinMM.2.2.1/NAudio.WinMM.2.2.1.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.WinMM.2.2.1/lib/netstandard2.0/NAudio.WinMM.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/NAudio.WinMM.2.2.1/naudio-icon.png filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/System.Security.AccessControl.4.7.0.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/lib/net46/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/lib/net461/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/lib/netstandard1.3/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/lib/netstandard2.0/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/ref/net46/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/ref/net461/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/ref/netstandard1.3/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/ref/netstandard2.0/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/runtimes/win/lib/net46/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/runtimes/win/lib/net461/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.AccessControl.4.7.0/runtimes/win/lib/netstandard1.3/System.Security.AccessControl.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/System.Security.Principal.Windows.4.7.0.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/lib/net46/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/lib/net461/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/lib/netstandard1.3/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/lib/netstandard2.0/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/ref/net46/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/ref/net461/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/ref/netcoreapp3.0/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/ref/netstandard1.3/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/ref/netstandard2.0/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/runtimes/unix/lib/netcoreapp2.0/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/runtimes/win/lib/net46/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/runtimes/win/lib/net461/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/runtimes/win/lib/netcoreapp2.0/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/music/music-one/packages/System.Security.Principal.Windows.4.7.0/runtimes/win/lib/netstandard1.3/System.Security.Principal.Windows.dll filter=lfs diff=lfs merge=lfs -text
+"b-Code/text/destkop text/packages/MathNet.Numerics.5.0.0/.signature.p7s" filter=lfs diff=lfs merge=lfs -text
+"b-Code/text/destkop text/packages/MathNet.Numerics.5.0.0/MathNet.Numerics.5.0.0.nupkg" filter=lfs diff=lfs merge=lfs -text
+"b-Code/text/destkop text/packages/MathNet.Numerics.5.0.0/icon.png" filter=lfs diff=lfs merge=lfs -text
+"b-Code/text/destkop text/packages/MathNet.Numerics.5.0.0/lib/net461/MathNet.Numerics.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/text/destkop text/packages/MathNet.Numerics.5.0.0/lib/net48/MathNet.Numerics.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/text/destkop text/packages/MathNet.Numerics.5.0.0/lib/net5.0/MathNet.Numerics.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/text/destkop text/packages/MathNet.Numerics.5.0.0/lib/net6.0/MathNet.Numerics.dll" filter=lfs diff=lfs merge=lfs -text
+"b-Code/text/destkop text/packages/MathNet.Numerics.5.0.0/lib/netstandard2.0/MathNet.Numerics.dll" filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/.signature.p7s filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/Newtonsoft.Json.13.0.4.nupkg filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/lib/net20/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/lib/net35/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/lib/net40/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/lib/net45/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/lib/net6.0/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/lib/netstandard1.0/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/lib/netstandard1.3/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/lib/netstandard2.0/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/packages/Newtonsoft.Json.13.0.4/packageIcon.png filter=lfs diff=lfs merge=lfs -text
+b-Code/zhuanhua/zhuanhua/bin/Debug/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/.vs/ProjectEvaluation/codex-use.metadata.v9.bin filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/.vs/ProjectEvaluation/codex-use.projects.v9.bin filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/.vs/ProjectEvaluation/codex-use.strings.v9.bin filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/.vs/codex-use/CopilotIndices/17.14.1691.21253/CodeChunks.db filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/.vs/codex-use/CopilotIndices/17.14.1691.21253/SemanticSymbols.db filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/.vs/codex-use/DesignTimeBuild/.dtbcache.v2 filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/.vs/codex-use/v17/.futdcache.v2 filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.AI.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.Options.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Microsoft.OpenApi.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/ModelContextProtocol.AspNetCore.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/ModelContextProtocol.Core.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/ModelContextProtocol.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/System.IO.Pipelines.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/System.Net.ServerSentEvents.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/System.Text.Encodings.Web.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/System.Text.Json.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/codex-use.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/codex-use.exe filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/obj/Debug/net8.0/apphost.exe filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/obj/Debug/net8.0/codex-use.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/obj/Debug/net8.0/ref/codex-use.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/codex-use/obj/Debug/net8.0/refint/codex-use.dll filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/concept_car.blend filter=lfs diff=lfs merge=lfs -text
+b-Codex-use/concept_car_preview.png filter=lfs diff=lfs merge=lfs -text
